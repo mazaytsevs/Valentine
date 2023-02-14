@@ -214,10 +214,6 @@ body {
   background-size: 100% 40px;
 }
 
-.letter p {
-  word-break: break-all;
-}
-
 .date {
   display: block;
   text-align: right;
